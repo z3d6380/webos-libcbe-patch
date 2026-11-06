@@ -1,0 +1,4 @@
+# original_sha256 patched_sha256 firmware note
+# patched_sha256 is "-" until a rebuilt libcbe.so for that exact file is published.
+# A libcbe.so from any other row will not load. Do not fill this in by hand.
+965c00c5fc97610b9de62d251a64bb312ebe0b681d21561626338c9569384b2c - 43.21.84 OLED77C3PUA webOS 11.2.0 Chrome/132.0.6834.207
